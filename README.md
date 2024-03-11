@@ -1,5 +1,8 @@
 # Heart Disease Predictor Model
 # Overview
+
+![Screenshot 2024-03-11 13 54 55](https://github.com/mahn-bonnie/Heart-Disease-Predictor/assets/156321537/f65e159d-8157-4b2f-aea8-69cc3e94c10f)
+
 Heart Disease Predictor is a machine learning project designed to predict the likelihood of an individual having heart disease based on various health-related features. The project utilizes state-of-the-art machine learning algorithms to build an accurate predictive model.
 
 # Features
