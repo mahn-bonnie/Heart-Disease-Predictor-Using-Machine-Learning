@@ -34,14 +34,14 @@ Ensure you have the following dependencies installed:
   
 Install dependencies using:
 
-# bash
+ - bash
 pip install numpy pandas scikit-learn matplotlib seaborn
 # Usage
 # Clone the repository:
-# bash
+ - bash
 git clone....
 # Run the main script:
-# bash
+ - bash
 python heart_disease_predictor.py
 
 # Follow the on-screen instructions to input health-related data.
