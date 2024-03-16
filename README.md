@@ -53,7 +53,7 @@ python heart_disease_predictor.py
  2. model_svm_heart_disease: Pre-trained machine learning model saved using joblib.
  3. data/: Directory containing the Heart Disease dataset.
 # Results
-The model achieved an accuracy of X% on the testing dataset.
+The model achieved an accuracy of 83% on the testing dataset.
 
 # License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/mahn-bonnie/Heart-Disease-Predictor/tree/main#) file for details.
